@@ -1,0 +1,1 @@
+# limited-guest-permissions
